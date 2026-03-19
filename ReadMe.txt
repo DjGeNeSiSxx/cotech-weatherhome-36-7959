@@ -1,12 +1,13 @@
-Cotech Weather Station 36-7959 (FT-0205)
-WeatherHome Software
-WeatherHome.exe
-This is the original software distributed on CD with the device.
+# Cotech Weather Station 36-7959 (FT-0205)
 
-Instructions:
+WeatherHome software from original CD.
+
+## Installation
 1. Run WeatherHome.exe
 2. Connect station via USB
-3. Follow setup wizard
 
+## Notes
+- For archival purposes
+- Compatible with Windows systems
 Note:
 This software is provided for archival purposes.
